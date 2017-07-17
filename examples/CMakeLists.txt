@@ -8,3 +8,4 @@ endif()
 include(${HFRAMEWORK_PATH}/hFramework.cmake)
 
 add_hexecutable(excode excode.cpp)
+
